@@ -10,6 +10,8 @@
 
 ### Related papers
 
+- Data mining
+
 'MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS' (2009) by Yehuda Koren , Robert Bell , Chris Volinsky
 
 'A Survey of Collaborative Filtering Techniques' (2009) by Xiaoyuan Su and Taghi M. Khoshgoftaar
